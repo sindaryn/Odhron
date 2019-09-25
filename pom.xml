@@ -6,7 +6,7 @@
     <packaging>pom</packaging>
     <groupId>org.sindaryn</groupId>
     <artifactId>Odhron</artifactId>
-    <version>0.0.1-POM</version>
+    <version>0.0.2</version>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
