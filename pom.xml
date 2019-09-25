@@ -11,7 +11,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.1.6.RELEASE</version>
+        <version>2.1.8.RELEASE</version>
         <relativePath/>
     </parent>
 
@@ -20,7 +20,6 @@
         <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
         <javapoet.version>1.11.1</javapoet.version>
         <guava.version>28.0-jre</guava.version>
-        <lombok.version>1.18.8</lombok.version>
         <reflections.version>0.9.11</reflections.version>
     </properties>
 
